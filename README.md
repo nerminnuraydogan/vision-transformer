@@ -145,8 +145,6 @@ Finally, by applying a Softmax function to the output layer, we obtain the proba
 
 1. [Illustrated Transformer — Blog Post](https://jalammar.github.io/illustrated-transformer/)
 
-1. [Vision Transformer Implementation — GitHub Repository](https://github.com/nerminnuraydogan/vision-transformer)
-
 1. [Attention is All You Need — Paper](https://arxiv.org/pdf/1706.03762.pdf)
 
 1. [Key, Value and Query Concept](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
